@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "pluginsAndLibraries"
+  name: "webLibraries"
   text: "记录开发中使用的库"
   actions:
     - theme: brand
