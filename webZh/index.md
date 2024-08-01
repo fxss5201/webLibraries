@@ -1,5 +1,6 @@
 # webZh
 
+- [nodejs 中文网](https://nodejs.cn/learn/the-package-json-guide)
 - [typescript 中文网](https://ts.nodejs.cn/)
 - [vueuse 中文网](https://vueuse.nodejs.cn/)
 - [Nuxt 中文网](https://nuxt.com.cn/)
