@@ -1,6 +1,20 @@
 import { defineConfig } from 'vitepress'
+import { SearchPlugin } from 'vitepress-plugin-search'
+import Segment from 'segment'
 
 const base = '/webLibraries/'
+
+const segment = new Segment()
+segment.useDefault()
+
+const options = {
+  buttonLabel: '搜索',
+  placeholder: '搜索文档',
+  encode: function (str) {
+    return segment.doSegment(str, {simple: true});
+  },
+  tokenize: "forward",
+}
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -87,5 +101,6 @@ export default defineConfig({
         }
       })
     }
-  }
+  },
+  vite: { plugins: [SearchPlugin(options)] }
 })
