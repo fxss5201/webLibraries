@@ -3,6 +3,7 @@
 ## JS
 
 - [lodash](https://github.com/lodash/lodash)
+- [axios](https://github.com/axios/axios)
 - [mitt: 事件总线](https://github.com/developit/mitt)
 - [joi: 最强大的 JS 数据验证库](https://github.com/hapijs/joi)
 - [filenamify: 将字符串转换为有效的安全文件名](https://github.com/sindresorhus/filenamify)
@@ -33,6 +34,15 @@
 - [jsPDF](https://github.com/parallax/jsPDF)
 - [sheetjs](https://github.com/SheetJS/sheetjs)
 - [draggable](https://shopify.github.io/draggable/)
+- [monaco-editor](https://github.com/microsoft/monaco-editor)
+- [exif-js: 读取 EXIF 图像元数据的 JavaScript 库](https://github.com/exif-js/exif-js)
+- [countUp.js](https://github.com/inorganik/countUp.js)
+- [ag-grid: 数据表](https://github.com/ag-grid/ag-grid)
+- [three.js](https://github.com/mrdoob/three.js)
+- [pannellum](https://github.com/mpetroff/pannellum)
+- [DeviceJs: JS获取设备信息](https://github.com/skillnull/DeviceJs)
+- [clipboard.js](https://github.com/zenorocha/clipboard.js)
+- [html2canvas](http://html2canvas.hertzen.com/)
 
 ## TS
 
@@ -112,6 +122,7 @@
 - [node-xlsx：excel 文件解析器和构建器](https://github.com/mgcrea/node-xlsx)
 - [commander.js: 命令行解决方案](https://github.com/tj/commander.js)
 - [apicache: Express/Node 的简单 API 缓存中间件](https://github.com/kwhitley/apicache)
+- [svgo: 用于优化 SVG 文件的Node.js工具](https://github.com/svg/svgo)
 
 ## unjs
 
@@ -189,6 +200,7 @@
 - [markdown-online-editor: 基于 Vue、Vditor，所构建的在线 Markdown 编辑器](https://github.com/nicejade/markdown-online-editor)
 - [tui.editor](https://github.com/nhn/tui.editor)
 - [markdown-it](https://github.com/markdown-it/markdown-it)
+- [markdownlint](https://github.com/DavidAnson/markdownlint)
 
 ## 文本编辑器
 
@@ -224,6 +236,12 @@
 - [approvalFlow: 审批流](https://github.com/SNFocus/approvalFlow)
 - [eruda: 移动端控制台](https://github.com/liriliri/eruda)
 - [Motrix: 全能的下载工具](https://github.com/agalwood/Motrix)
+- [vConsole](https://github.com/Tencent/vConsole)
+- [js-code-to-svg-flowchart: 代码逻辑转svg图](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart)
+- [mermaid: 通过解析类 Markdown 的文本语法来实现图表的创建和动态修改](https://github.com/mermaid-js/mermaid)
+- [pdf.js](https://github.com/mozilla/pdf.js)
+- [jsonon: json 在线视图](https://github.com/bimohxh/jsonon)
+- [jsoneditor](https://github.com/josdejong/jsoneditor)
 
 ## 音视频
 
@@ -231,3 +249,4 @@
 - [ArtPlayer: HTML5 视频播放器](https://github.com/zhw2590582/ArtPlayer)
 - [Recorder: html5 js 录音](https://github.com/xiangyuecn/Recorder)
 - [wavesurfer.js: 音频可视化](https://github.com/katspaugh/wavesurfer.js)
+- [video.js](https://github.com/videojs/video.js)
