@@ -2,16 +2,37 @@
 
 ## JS
 
+- [lodash](https://github.com/lodash/lodash)
 - [mitt: 事件总线](https://github.com/developit/mitt)
 - [joi: 最强大的 JS 数据验证库](https://github.com/hapijs/joi)
 - [filenamify: 将字符串转换为有效的安全文件名](https://github.com/sindresorhus/filenamify)
 - [typical: 打字机效果](https://github.com/camwiegert/typical)
 - [typed: 打字机效果](https://github.com/mattboldt/typed.js)
 - [qrbtf: 二维码](https://github.com/latentcat/qrbtf)
+- [jsQR: 二维码解析](https://github.com/cozmo/jsQR)
+- [qrious](https://github.com/neocotic/qrious)
 - [echarts-liquidfill: echarts液体填充图](https://github.com/ecomfe/echarts-liquidfill)
 - [JsBarcode: 条形码生成库，可在浏览器和 Node.js 上运行](https://github.com/lindell/JsBarcode)
 - [query-string: 解析和字符串化 URL 查询字符串](https://github.com/sindresorhus/query-string)
 - [deep-object-diff: Deep diff 对两个对象（包括数组和对象的嵌套结构）进行差异，并返回差值](https://github.com/mattphillips/deep-object-diff)
+- [outils: 代码工具库](https://github.com/proYang/outils)
+- [crypto-js: 加密](https://github.com/brix/crypto-js)
+- [handsontable:  JavaScript 数据网格。适用于 React、Angular 和 Vue](https://github.com/handsontable/handsontable)
+- [js-md5](https://github.com/emn178/js-md5)
+- [any-rule: 正则](https://github.com/any86/any-rule)
+- [ua-device: userAgent解析库](https://github.com/fex-team/ua-device)
+- [FileSaver.js](https://github.com/eligrey/FileSaver.js)
+- [js-base64](https://github.com/dankogai/js-base64)
+- [Mock](https://github.com/nuysoft/Mock)
+- [easy-mock](https://github.com/easy-mock/easy-mock)
+- [async-validator](https://github.com/yiminghe/async-validator)
+- [localForage: IndexedDB、WebSQL 或 localStorage](https://github.com/localForage/localForage)
+- [ChinaMobilePhoneNumberRegex: 一组匹配中国大陆手机号码的正则表达式](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex)
+- [js-cookie](https://github.com/js-cookie/js-cookie)
+- [swiper](https://github.com/nolimits4web/swiper)
+- [jsPDF](https://github.com/parallax/jsPDF)
+- [sheetjs](https://github.com/SheetJS/sheetjs)
+- [draggable](https://shopify.github.io/draggable/)
 
 ## TS
 
@@ -49,8 +70,20 @@
 - [vueuse](https://vueuse.nodejs.cn/)
 - [vue-puzzle-vcode: vue 拼图人机验证 右滑拼图验证](https://github.com/javaLuo/vue-puzzle-vcode)
 - [vue-barcode: 条形码](https://github.com/fengyuanchen/vue-barcode)
+- [vue-barcode](https://github.com/lindell/vue-barcode)
 - [vue-countdown: 倒计时](https://github.com/fengyuanchen/vue-countdown)
 - [vue-qr: 二维码](https://github.com/Binaryify/vue-qr)
+- [vue-countTo](https://github.com/PanJiaChen/vue-countTo)
+- [vue-popper](https://github.com/freeze-component/vue-popper)
+- [vue-seamless-scroll: 无缝滚动](https://chenxuan0000.github.io/vue-seamless-scroll/zh/)
+- [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable)
+- [vxe-table](https://github.com/x-extends/vxe-table)
+- [vue-js-grid](https://github.com/euvl/vue-js-grid)
+- [vue-slider-component](https://github.com/NightCatSama/vue-slider-component)
+- [mescroll: 下拉刷新和上拉加载](https://github.com/mescroll/mescroll)
+- [vue-print-nb: 打印](https://github.com/Power-kxLee/vue-print-nb)
+- [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)
+- [vue-draggable-plus](https://vue-draggable-plus.pages.dev/guide/)
 
 ## React
 
@@ -77,6 +110,8 @@
 - [node-schedule: 时间调度](https://github.com/node-schedule/node-schedule)
 - [parameter: koa接口参数校验](https://github.com/koajs/parameter)
 - [node-xlsx：excel 文件解析器和构建器](https://github.com/mgcrea/node-xlsx)
+- [commander.js: 命令行解决方案](https://github.com/tj/commander.js)
+- [apicache: Express/Node 的简单 API 缓存中间件](https://github.com/kwhitley/apicache)
 
 ## unjs
 
@@ -91,6 +126,8 @@
 
 - [hox: 状态共享](https://github.com/umijs/hox)
 - [formily: 前端表单解决方案](https://github.com/alibaba/formily)
+- [umi](https://github.com/umijs/umi)
+- [ant-design-mobile](https://github.com/ant-design/ant-design-mobile)
 
 ## 数据库
 
@@ -100,6 +137,15 @@
 ## 数据结构
 
 - [algorithms](https://the-algorithms.com/zh_Hans/language/javascript)
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
+
+## 算法
+
+- [hello-algo](https://github.com/krahets/hello-algo)
+- [fxss-leetcode](https://github.com/fxss5201/fxss-leetcode)
+- [js-data-structure-and-algorithm: JavaScript 数据结构与算法](https://github.com/XPoet/js-data-structure-and-algorithm)
+- [awesome-coding-js](https://github.com/ConardLi/awesome-coding-js)
 
 ## 拼音
 
@@ -111,12 +157,15 @@
 
 - [number-precision: 数字精确计算](https://github.com/nefe/number-precision)
 - [big.js](https://github.com/MikeMcl/big.js)
+- [bignumber.js](https://github.com/MikeMcl/bignumber.js)
 
 ## Git
 
 - [cz-git](https://cz-git.qbb.sh/zh/guide/)
 - [czg](https://cz-git.qbb.sh/zh/cli/)
 - [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version)
+- [husky](https://github.com/typicode/husky)
+- [github-readme-stats: github统计信息](https://github.com/anuraghazra/github-readme-stats)
 
 ## Canvas
 
@@ -132,15 +181,33 @@
 ## svg
 
 - [drauu: 浏览器中基于 SVG 的绘图板](https://github.com/antfu/drauu)
+- [svgedit](https://github.com/SVG-Edit/svgedit)
 
 ## markdown
 
 - [vditor: 浏览器端的 Markdown 编辑器](https://github.com/Vanessa219/vditor)
+- [markdown-online-editor: 基于 Vue、Vditor，所构建的在线 Markdown 编辑器](https://github.com/nicejade/markdown-online-editor)
+- [tui.editor](https://github.com/nhn/tui.editor)
+- [markdown-it](https://github.com/markdown-it/markdown-it)
 
-## 算法
+## 文本编辑器
 
-- [hello-algo](https://github.com/krahets/hello-algo)
-- [fxss-leetcode](https://github.com/fxss5201/fxss-leetcode)
+- [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor)
+- [braft-editor: React富文本编辑器，基于draft-js开发](https://github.com/margox/braft-editor)
+- [wangEditor](https://github.com/wangeditor-team/wangEditor)
+
+## 图表
+
+- [echarts](https://echarts.apache.org/zh/index.html)
+- [d3](https://github.com/d3/d3)
+
+## 低代码
+
+- [amis](https://github.com/baidu/amis)
+
+## linux
+
+- [linux-command](https://github.com/jaywcjlove/linux-command)
 
 ## 工具
 
@@ -148,11 +215,19 @@
 - [change-case](https://github.com/blakeembrey/change-case)
 - [f-cache-memory: 缓存](https://github.com/fxss5201/f-cache-memory)
 - [canvas-editor](https://github.com/Hufe921/canvas-editor)
-- [Recorder: html5 js 录音](https://github.com/xiangyuecn/Recorder)
-- [ArtPlayer: HTML5 视频播放器](https://github.com/zhw2590582/ArtPlayer)
 - [markwhen: 交互式文本时间线工具](https://github.com/mark-when/markwhen)
-- [wavesurfer.js: 音频可视化](https://github.com/katspaugh/wavesurfer.js)
 - [html-to-image: 使用 HTML5 canvas 和 SVG 从 DOM 节点生成图像](https://github.com/bubkoo/html-to-image)
 - [dom-to-image](https://github.com/tsayen/dom-to-image)
 - [twemoji: Emoji](https://github.com/twitter/twemoji)
 - [open-resume: 简历构建和解析](https://github.com/xitanggg/open-resume)
+- [callapp-lib: H5唤起客户端](https://github.com/suanmei/callapp-lib)
+- [approvalFlow: 审批流](https://github.com/SNFocus/approvalFlow)
+- [eruda: 移动端控制台](https://github.com/liriliri/eruda)
+- [Motrix: 全能的下载工具](https://github.com/agalwood/Motrix)
+
+## 音视频
+
+- [DPlayer](https://github.com/DIYgod/DPlayer)
+- [ArtPlayer: HTML5 视频播放器](https://github.com/zhw2590582/ArtPlayer)
+- [Recorder: html5 js 录音](https://github.com/xiangyuecn/Recorder)
+- [wavesurfer.js: 音频可视化](https://github.com/katspaugh/wavesurfer.js)
