@@ -94,6 +94,7 @@
 - [vue-print-nb: 打印](https://github.com/Power-kxLee/vue-print-nb)
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)
 - [vue-draggable-plus](https://vue-draggable-plus.pages.dev/guide/)
+- [vue3-sfc-loader: Vue2 和 Vue3 的单文件组件加载器](https://github.com/FranckFreiburger/vue3-sfc-loader)
 
 ## React
 
@@ -132,6 +133,10 @@
 - [scule: 字符串操作，camelCase/kebabCase...](https://github.com/unjs/scule)
 - [ufo: 操作读取url](https://github.com/unjs/ufo)
 - [destr: JSON.parse 替代方案](https://github.com/unjs/destr)
+- [nitro: 服务器引擎](https://nitro.unjs.io/)
+- [h3](https://github.com/unjs/h3)
+- [ofetch](https://github.com/unjs/ofetch)
+- [mlly](https://github.com/unjs/mlly)
 
 ## ali
 
