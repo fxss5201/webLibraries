@@ -3,6 +3,7 @@
 ## JS
 
 - [lodash](https://github.com/lodash/lodash)
+- [es-toolkit](https://es-toolkit.slash.page/zh_hans/)
 - [axios](https://github.com/axios/axios)
 - [mitt: 事件总线](https://github.com/developit/mitt)
 - [joi: 最强大的 JS 数据验证库](https://github.com/hapijs/joi)
@@ -95,9 +96,16 @@
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)
 - [vue-draggable-plus](https://vue-draggable-plus.pages.dev/guide/)
 - [vue3-sfc-loader: Vue2 和 Vue3 的单文件组件加载器](https://github.com/FranckFreiburger/vue3-sfc-loader)
+- [vue-hooks-plus](https://github.com/InhiblabCore/vue-hooks-plus)
 
 ## React
 
+- [React 文档](https://react.docschina.org/)
+- [create-react-app 文档](https://create-react-app.dev/)
+- [craco 文档](https://craco.js.org/)
+- [react router 文档](https://reactrouter.com/en/main)
+- [redux 文档](https://redux.js.org/)([redux 中文文档](https://www.redux.org.cn/))
+- [use-immer](https://github.com/immerjs/use-immer)
 - [react-typical](https://github.com/catalinmiron/react-typical)
 - [react-move: 动画](https://github.com/sghall/react-move)
 - [react-json-view](https://github.com/mac-s-g/react-json-view)
@@ -105,9 +113,11 @@
 - [react-use](https://github.com/streamich/react-use)
 - [react-arborist: 树形控件](https://github.com/brimdata/react-arborist)
 - [ink: 用于交互式命令行应用的 React](https://github.com/vadimdemedes/ink)
+- [ahooks](https://github.com/alibaba/hooks)
 
 ## Electron
 
+- [electron-vite](https://cn.electron-vite.org/)
 - [menubar](https://github.com/max-mapper/menubar)
 
 ## Node
