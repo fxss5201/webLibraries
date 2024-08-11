@@ -132,6 +132,10 @@
 - [scule: 字符串操作，camelCase/kebabCase...](https://github.com/unjs/scule)
 - [ufo: 操作读取url](https://github.com/unjs/ufo)
 - [destr: JSON.parse 替代方案](https://github.com/unjs/destr)
+- [defu: 以递归方式分配默认属性](https://github.com/unjs/defu)
+- [hookable: 钩子回调](https://github.com/unjs/hookable)
+- [nitro: 现代 Web 的服务器](https://nitro.unjs.io/)
+- [h3: H（TTP） 服务器框架](https://h3.unjs.io/)
 
 ## ali
 
