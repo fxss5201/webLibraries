@@ -149,6 +149,8 @@
 - [h3: H（TTP） 服务器框架](https://h3.unjs.io/)
 - [ofetch: 请求库](https://github.com/unjs/ofetch)
 - [mlly: 常见的 ECMAScript 模块实用程序](https://github.com/unjs/mlly)
+- [untyped: 根据对象生成 ts 类型和 markdown](https://github.com/unjs/untyped)
+- [c12: 智能配置加载器](https://github.com/unjs/c12)
 
 ## ali
 
