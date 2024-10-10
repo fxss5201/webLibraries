@@ -69,6 +69,7 @@
 
 - [dayjs](https://dayjs.fenxianglu.cn/)
 - [lunar-typescript: 阳历农历](https://github.com/6tail/lunar-typescript)
+- [fullcalendar：日程](https://fullcalendar.io/)
 
 ## React Native
 
@@ -97,6 +98,7 @@
 - [vue-draggable-plus](https://vue-draggable-plus.pages.dev/guide/)
 - [vue3-sfc-loader: Vue2 和 Vue3 的单文件组件加载器](https://github.com/FranckFreiburger/vue3-sfc-loader)
 - [vue-hooks-plus](https://github.com/InhiblabCore/vue-hooks-plus)
+- [splitpanes：分割线拖拽](https://github.com/antoniandre/splitpanes)
 
 ## React
 
@@ -159,6 +161,7 @@
 
 - [typeorm](https://github.com/typeorm/typeorm)
 - [sequelize](https://github.com/sequelize/sequelize)
+- [prisma](https://prisma.nodejs.cn/#google_vignette)
 
 ## 数据结构
 
@@ -239,7 +242,10 @@
 ## 工具
 
 - [js-screen-shot: web端截图库](https://www.kaisir.cn/js-screen-shot/)
-- [change-case](https://github.com/blakeembrey/change-case)
+- [change-case：字符串格式转换](https://github.com/blakeembrey/change-case)
+- [sponge-case：字符串随机大小写](https://github.com/blakeembrey/change-case/tree/main/packages/sponge-case)
+- [swap-case：字符串大小写反转](https://github.com/blakeembrey/change-case/tree/main/packages/swap-case)
+- [title-case](https://github.com/blakeembrey/change-case/tree/main/packages/title-case)
 - [f-cache-memory: 缓存](https://github.com/fxss5201/f-cache-memory)
 - [canvas-editor](https://github.com/Hufe921/canvas-editor)
 - [markwhen: 交互式文本时间线工具](https://github.com/mark-when/markwhen)
@@ -257,6 +263,7 @@
 - [pdf.js](https://github.com/mozilla/pdf.js)
 - [jsonon: json 在线视图](https://github.com/bimohxh/jsonon)
 - [jsoneditor](https://github.com/josdejong/jsoneditor)
+- [tinypng：图片压缩](https://tinypng.wcrane.cn/)
 
 ## 音视频
 
