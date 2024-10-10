@@ -145,10 +145,14 @@
 - [scule: 字符串操作，camelCase/kebabCase...](https://github.com/unjs/scule)
 - [ufo: 操作读取url](https://github.com/unjs/ufo)
 - [destr: JSON.parse 替代方案](https://github.com/unjs/destr)
-- [nitro: 服务器引擎](https://nitro.unjs.io/)
-- [h3](https://github.com/unjs/h3)
-- [ofetch](https://github.com/unjs/ofetch)
-- [mlly](https://github.com/unjs/mlly)
+- [defu: 以递归方式分配默认属性](https://github.com/unjs/defu)
+- [hookable: 钩子回调](https://github.com/unjs/hookable)
+- [nitro: 现代 Web 的服务器](https://nitro.unjs.io/)
+- [h3: H（TTP） 服务器框架](https://h3.unjs.io/)
+- [ofetch: 请求库](https://github.com/unjs/ofetch)
+- [mlly: 常见的 ECMAScript 模块实用程序](https://github.com/unjs/mlly)
+- [untyped: 根据对象生成 ts 类型和 markdown](https://github.com/unjs/untyped)
+- [c12: 智能配置加载器](https://github.com/unjs/c12)
 
 ## ali
 
