@@ -45,6 +45,8 @@
 - [clipboard.js](https://github.com/zenorocha/clipboard.js)
 - [html2canvas](http://html2canvas.hertzen.com/)
 - [flat: 拼合/取消拼合嵌套的 Javascript 对象](https://github.com/hughsk/flat)
+- [Print: 打印](https://github.com/crabbly/Print.js)
+- [hiprint: JS打印插件](http://hiprint.io/)
 
 ## TS
 
@@ -100,6 +102,7 @@
 - [vue3-sfc-loader: Vue2 和 Vue3 的单文件组件加载器](https://github.com/FranckFreiburger/vue3-sfc-loader)
 - [vue-hooks-plus](https://github.com/InhiblabCore/vue-hooks-plus)
 - [splitpanes：分割线拖拽](https://github.com/antoniandre/splitpanes)
+- [vue-office: 提供word(.docx)、pdf、excel(.xlsx, .xls)多种文档的在线预览方案](https://github.com/501351981/vue-office)
 
 ## React
 
@@ -137,6 +140,7 @@
 - [commander.js: 命令行解决方案](https://github.com/tj/commander.js)
 - [apicache: Express/Node 的简单 API 缓存中间件](https://github.com/kwhitley/apicache)
 - [svgo: 用于优化 SVG 文件的Node.js工具](https://github.com/svg/svgo)
+- [node-printer](https://github.com/tojocky/node-printer)
 
 ## unjs
 
