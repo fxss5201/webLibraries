@@ -44,6 +44,7 @@
 - [DeviceJs: JS获取设备信息](https://github.com/skillnull/DeviceJs)
 - [clipboard.js](https://github.com/zenorocha/clipboard.js)
 - [html2canvas](http://html2canvas.hertzen.com/)
+- [flat: 拼合/取消拼合嵌套的 Javascript 对象](https://github.com/hughsk/flat)
 
 ## TS
 
