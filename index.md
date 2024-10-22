@@ -9,6 +9,9 @@ hero:
     - theme: brand
       text: 库
       link: /libraries
+    - theme: brand
+      text: 鸿蒙
+      link: /harmony
     - theme: alt
       text: 中文网
       link: /webZh

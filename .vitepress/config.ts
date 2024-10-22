@@ -27,11 +27,13 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '库', link: '/libraries' },
+      { text: '鸿蒙', link: '/harmony' },
       { text: '中文网', link: '/webZh' }
     ],
 
     sidebar: [
       { text: '库', link: '/libraries' },
+      { text: '鸿蒙', link: '/harmony' },
       { text: '中文网', link: '/webZh' }
     ],
 
