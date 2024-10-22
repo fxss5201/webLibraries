@@ -125,6 +125,7 @@
 
 - [electron-vite](https://cn.electron-vite.org/)
 - [menubar](https://github.com/max-mapper/menubar)
+- [electron-better-ipc](https://github.com/sindresorhus/electron-better-ipc)
 
 ## Node
 
