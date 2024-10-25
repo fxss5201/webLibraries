@@ -240,6 +240,7 @@
 
 - [echarts](https://echarts.apache.org/zh/index.html)
 - [d3](https://github.com/d3/d3)
+- [tiny-charts](https://opentiny.design/tiny-charts/QuickStart)
 
 ## 低代码
 
