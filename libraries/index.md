@@ -72,7 +72,7 @@
 
 - [dayjs](https://dayjs.fenxianglu.cn/)
 - [lunar-typescript: 阳历农历](https://github.com/6tail/lunar-typescript)
-- [fullcalendar：日程](https://fullcalendar.io/)
+- [fullcalendar: 日程](https://fullcalendar.io/)
 
 ## React Native
 
@@ -101,7 +101,7 @@
 - [vue-draggable-plus](https://vue-draggable-plus.pages.dev/guide/)
 - [vue3-sfc-loader: Vue2 和 Vue3 的单文件组件加载器](https://github.com/FranckFreiburger/vue3-sfc-loader)
 - [vue-hooks-plus](https://github.com/InhiblabCore/vue-hooks-plus)
-- [splitpanes：分割线拖拽](https://github.com/antoniandre/splitpanes)
+- [splitpanes: 分割线拖拽](https://github.com/antoniandre/splitpanes)
 - [vue-office: 提供word(.docx)、pdf、excel(.xlsx, .xls)多种文档的在线预览方案](https://github.com/501351981/vue-office)
 
 ## React
@@ -137,7 +137,7 @@
 - [rimraf: A `rm -rf` util for nodejs](https://github.com/isaacs/rimraf)
 - [node-schedule: 时间调度](https://github.com/node-schedule/node-schedule)
 - [parameter: koa接口参数校验](https://github.com/koajs/parameter)
-- [node-xlsx：excel 文件解析器和构建器](https://github.com/mgcrea/node-xlsx)
+- [node-xlsx: excel 文件解析器和构建器](https://github.com/mgcrea/node-xlsx)
 - [commander.js: 命令行解决方案](https://github.com/tj/commander.js)
 - [apicache: Express/Node 的简单 API 缓存中间件](https://github.com/kwhitley/apicache)
 - [svgo: 用于优化 SVG 文件的Node.js工具](https://github.com/svg/svgo)
@@ -253,9 +253,9 @@
 ## 工具
 
 - [js-screen-shot: web端截图库](https://www.kaisir.cn/js-screen-shot/)
-- [change-case：字符串格式转换](https://github.com/blakeembrey/change-case)
-- [sponge-case：字符串随机大小写](https://github.com/blakeembrey/change-case/tree/main/packages/sponge-case)
-- [swap-case：字符串大小写反转](https://github.com/blakeembrey/change-case/tree/main/packages/swap-case)
+- [change-case: 字符串格式转换](https://github.com/blakeembrey/change-case)
+- [sponge-case: 字符串随机大小写](https://github.com/blakeembrey/change-case/tree/main/packages/sponge-case)
+- [swap-case: 字符串大小写反转](https://github.com/blakeembrey/change-case/tree/main/packages/swap-case)
 - [title-case](https://github.com/blakeembrey/change-case/tree/main/packages/title-case)
 - [f-cache-memory: 缓存](https://github.com/fxss5201/f-cache-memory)
 - [canvas-editor](https://github.com/Hufe921/canvas-editor)
@@ -274,7 +274,8 @@
 - [pdf.js](https://github.com/mozilla/pdf.js)
 - [jsonon: json 在线视图](https://github.com/bimohxh/jsonon)
 - [jsoneditor](https://github.com/josdejong/jsoneditor)
-- [tinypng：图片压缩](https://tinypng.wcrane.cn/)
+- [tinypng: 图片压缩](https://tinypng.wcrane.cn/)
+- [disable-devtool: 禁用开发者工具](https://github.com/theajack/disable-devtool)
 
 ## 音视频
 
