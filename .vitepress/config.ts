@@ -94,7 +94,7 @@ export default defineConfig({
     }
   },
   sitemap: {
-    hostname: 'https://fxss5201.github.io',
+    hostname: 'https://www.fxss.work',
     transformItems: (items) => {
       return items.map(item => {
         return {
